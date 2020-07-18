@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Psyco_PseudoPixelaFiltersPlugIn - AU.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Psyco_PseudoPixelaFiltersPlugIn - All.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Psyco_PseudoPixelaFiltersPlugIn - Shared Code.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Psyco_PseudoPixelaFiltersPlugIn - Standalone Plugin.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Psyco_PseudoPixelaFiltersPlugIn - VST.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>358FE2E844F67E1F6D5AC78F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>36F02B62E206794B659B5223</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>54BE00FCBC61A6FE72263BF9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A7B6883A76C78074087FD9A8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E5AAAAE0BC6D3B87F2ED4483</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
